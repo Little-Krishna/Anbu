@@ -11,6 +11,11 @@ public class Note {
      System.out.println("2356776");
 	}
 	
+	private void pandi() {
+		// TODO Auto-generated method stub
+
+	}
+	
 	public static void main(String[] args) {
 		
 		Note n = new Note();
