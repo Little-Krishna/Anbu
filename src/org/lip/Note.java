@@ -12,7 +12,7 @@ public class Note {
 	}
 	
 private void vaigai() {
-	// TODO Auto-generated method stub
+	System.out.println("123");
 
 }	
 	
